@@ -1,0 +1,3 @@
+[submodule "initial-config/bars"]
+	path = initial-config/bars
+	url = https://github.com/dorutc/subModule1.git
